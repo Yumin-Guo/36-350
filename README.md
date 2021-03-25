@@ -1,2 +1,2 @@
 # 36-350
-Statistical Computing (R programming)
+This is for my Statistical Computing (R programming) class.
